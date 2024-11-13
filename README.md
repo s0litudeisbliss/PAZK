@@ -15,7 +15,7 @@ PAZK is a curated collection of Obsidian notes that breaks down and explores the
 
 - **Chapter 1:** Introduction
 
-## 📋 References
+## 📕 References
 
 [Proofs, Arguments, and Zero-Knowledge][1]
 
