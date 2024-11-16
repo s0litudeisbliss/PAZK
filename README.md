@@ -14,6 +14,7 @@ PAZK is a curated collection of Obsidian notes that breaks down and explores the
 ## 📋 Contents
 
 - **Chapter 1:** Introduction
+- Miscellaneous notes: R1CS explainer.  
 
 ## 📕 References
 

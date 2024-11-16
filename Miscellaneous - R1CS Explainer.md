@@ -52,3 +52,6 @@ C =
 0 & 1 & 0 & -3 & 0 
 \end{vmatrix}
 $$
+
+(To-Do: If Addition is free explain some edge cases like $x+y=z$ )
+
